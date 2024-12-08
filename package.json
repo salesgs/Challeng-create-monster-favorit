@@ -1,0 +1,13 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Você é um aventureiro em um mundo cheio de criaturas mágicas! Sua missão é criar um monstro com habilidades únicas para ajudar você em sua jornada.",
+  "main": "main.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
